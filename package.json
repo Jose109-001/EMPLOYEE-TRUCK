@@ -1,0 +1,25 @@
+{
+  "name": "EMPLOYEE_TRUCK",
+  "version": "1.0.0",
+  "description": "",
+  "main": "department.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "test-connection": "node ./db/connect",
+    "create-tables": "node ./db/createTables",
+    "seed-data": "node ./db/seed",
+    "init": "node ./db/createTables && node ./db/seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "util": "^0.12.3"
+  }
+}
