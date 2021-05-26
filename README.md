@@ -1,20 +1,5 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Video: https://user-images.githubusercontent.com/77666204/119641641-3841bb80-be5d-11eb-9e9a-503ab1348c80.mp4
 
 
 # Unit 12 MySQL Homework: Employee Tracker
