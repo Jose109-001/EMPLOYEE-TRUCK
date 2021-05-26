@@ -10,6 +10,9 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 Design the following database schema containing three tables:
 
+https://user-images.githubusercontent.com/77666204/119642350-f82f0880-be5d-11eb-999f-8ff236e0adec.mp4
+
+
 
 
 * **department**:
